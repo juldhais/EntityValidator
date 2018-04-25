@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityValidator", "EntityValidator\EntityValidator.csproj", "{286E3B24-D2B1-42EE-8595-F17E02A4E011}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityValidator.Test", "EntityValidator.Test\EntityValidator.Test.csproj", "{B1B01427-AAC5-42F3-AB48-7B96E9A4E19B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{286E3B24-D2B1-42EE-8595-F17E02A4E011}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{286E3B24-D2B1-42EE-8595-F17E02A4E011}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{286E3B24-D2B1-42EE-8595-F17E02A4E011}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{286E3B24-D2B1-42EE-8595-F17E02A4E011}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1B01427-AAC5-42F3-AB48-7B96E9A4E19B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1B01427-AAC5-42F3-AB48-7B96E9A4E19B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1B01427-AAC5-42F3-AB48-7B96E9A4E19B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1B01427-AAC5-42F3-AB48-7B96E9A4E19B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75D4C833-6A77-473C-963A-87B2658CE2D1}
+	EndGlobalSection
+EndGlobal
